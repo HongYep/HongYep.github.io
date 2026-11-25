@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400" role="img" aria-label="Profile photo placeholder for Zhenghao Lu">
+  <circle cx="200" cy="200" r="196" fill="#eef2f6" stroke="#d7e0ea" stroke-width="4" />
+  <circle cx="200" cy="145" r="52" fill="#d3dde8" />
+  <path d="M110 308c10-54 48-84 90-84s80 30 90 84" fill="#d3dde8" />
+  <text x="200" y="218" text-anchor="middle" font-family="Lato, Verdana, Helvetica, sans-serif" font-size="72" font-weight="700" fill="#4a607a" letter-spacing="2">ZL</text>
+  <text x="200" y="256" text-anchor="middle" font-family="Lato, Verdana, Helvetica, sans-serif" font-size="18" fill="#6b7f96" letter-spacing="1.5">Photo Placeholder</text>
+</svg>
