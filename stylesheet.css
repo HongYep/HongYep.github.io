@@ -181,9 +181,8 @@ body {
   max-width: 100%;
   aspect-ratio: 1 / 1;
   object-fit: cover;
-  object-position: center top;
+  object-position: left center;
   border-radius: 50%;
-  border: 1px solid #ececec;
 }
 
 .intro-quote {
