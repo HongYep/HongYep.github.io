@@ -181,20 +181,23 @@ body {
   max-width: 100%;
   aspect-ratio: 1 / 1;
   object-fit: cover;
+  object-position: center top;
   border-radius: 50%;
+  border: 1px solid #ececec;
 }
 
 .intro-quote {
-  margin: 6px 0 0;
+  margin: 10px 0 0;
   color: #555;
   font-family: 'STKaiti', 'KaiTi', '楷体', 'Georgia', serif;
-  font-size: 16px;
-  letter-spacing: 1.5px;
+  font-size: 14px;
+  line-height: 1.6;
+  letter-spacing: 0.8px;
 }
 
 .intro-quote-source {
-  font-size: 13px;
-  letter-spacing: 0.5px;
+  font-size: 12px;
+  letter-spacing: 0.4px;
 }
 
 .intro-motto {
